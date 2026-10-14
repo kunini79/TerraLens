@@ -17,6 +17,3 @@ Open `index.html` in a modern browser. No build step, package installation, back
 
 The preloaded records and assay samples are fictional demo entries. No real maps, geospatial coordinates, remote sensing, AI prospectivity model, user authentication, cooperative identity verification, or server-side permissions are implemented. Do not use the target cards or demo readings for exploration, investment, safety, or resource-reporting decisions. A production service will need authenticated roles, server-enforced access controls, consent and benefit-sharing workflows, auditable data provenance, QA/QC review, security and privacy threat modelling, and appropriate regulatory and community engagement.
 
-## Suggested next implementation milestone
-
-Replace browser-only storage with a secured, Nigeria-resident API and database; define the JORC/NI 43-101-aligned record schema and auditable consent model before ingesting real or sensitive location data.
